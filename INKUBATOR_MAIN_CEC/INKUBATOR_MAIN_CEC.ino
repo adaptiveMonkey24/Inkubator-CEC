@@ -11,8 +11,3 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-
-//Imanuel Pesak
-//Fathir cinta calvin
-//Clauss sayang riuu
-//injill ebong
