@@ -3,11 +3,25 @@
 #include "PID_CONTROLLER.h"
 
 void setup() {
-  // put your setup code here, to run once:
-
+  dimmerInit();
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  for (int daya = 0; daya <= 100; daya++) {
+    setDimmer2(daya);
 
+    for (int i = 0; i < 20; i++) {
+      dimmerUpdate();
+      delay(1);
+    }
+  }
+
+  for (int daya = 100; daya >= 0; daya--) {
+    setDimmer2(daya);
+
+    for (int i = 0; i < 20; i++) {
+      dimmerUpdate();
+      delay(1);
+    }
+  }
 }
