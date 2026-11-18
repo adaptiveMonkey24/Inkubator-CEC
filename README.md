@@ -1,4 +1,4 @@
-# Project Inkubator (IoT) - Sistem Otomasi Industri (ELK3271)
+## Project Inkubator (IoT) - Sistem Otomasi Industri (ELK3271)
 
 Controll Engineering Community (CEC) Batch of 2024
 
