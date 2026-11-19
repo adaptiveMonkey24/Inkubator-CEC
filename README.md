@@ -11,6 +11,7 @@ Team :
 6. Vanesya Angely Lumintang (Management)
 7. Moh. Fathirrahman Binol (Management)
 8. Tiara Maria Carbelita Tioho (Documentation & Report)
+9. Glorius Bawole (Documentation & Report)
 
 Supervisor :
 1. Jeremy D. I. Daud, ST.
