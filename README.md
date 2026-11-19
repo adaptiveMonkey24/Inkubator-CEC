@@ -36,6 +36,7 @@ Sistem inkubator telur otomatis berbasis mikrokontroler dengan 5 tingkat (*layer
 ---
 
 ## Spesifikasi Perangkat Keras
+
 * **Mikrokontroler:** ESP32 / STM32 / Arduino (sesuaikan dengan unit Anda)
 * **Sensor Suhu/Kelembapan:** DHT22 (AM2302)
 * **Elemen Pemanas:** Lampu Pijar dengan Modul *AC Dimmer* (5 Channel / Triac Dimmer)
