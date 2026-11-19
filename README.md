@@ -22,6 +22,8 @@ Supervisor :
 
 Sistem inkubator telur otomatis berbasis mikrokontroler dengan 5 tingkat (*layer*) rak penetasan. Dilengkapi dengan pemantauan suhu dan kelembapan presisi tinggi menggunakan sensor DHT22, pemanas lampu pijar berdaya variabel via kontroler PID (*Proportional-Integral-Derivative*) untuk pemanasan stabil, serta sistem sirkulasi udara ganda (*exhaust fan* bawah untuk *inhale* dan atas untuk *exhale*).
 
+![Gambar Tidak Ditemukan](/Design/Design.png)
+
 ---
 
 ## Fitur Utama
